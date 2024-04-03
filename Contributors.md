@@ -2,7 +2,7 @@ git add Contributors.md# Contributors
 
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
-- [Divya Patel](https://github.com/DivyaKPatel)
+- [Divya Patel ](https://github.com/DivyaKPatel)
 Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [David Mbuvi](https://github.com/cheekydavy)
